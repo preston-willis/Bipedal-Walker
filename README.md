@@ -1,4 +1,4 @@
-# Bipedal-Walker
+# Bipedal-Walker - Work in Progress
 Bipedal walker training code
 
 Positional navigation trained with unity genetic algorithm. It will be fine-tuned to pneumatic actuators using reinforcement learning
